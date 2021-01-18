@@ -4,5 +4,10 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ruby on Rails Learning/simple_cms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ruby on Rails Learning/suggestotron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ruby on Rails Testing/simple_cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ruby on Rails Testing/suggestotron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple_cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/suggestotron" vcs="Git" />
   </component>
 </project>
