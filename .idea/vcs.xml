@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/Ruby on Rails Testing/simple_cms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Ruby on Rails Testing/suggestotron" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/depot" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/simple_cms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/suggestotron" vcs="Git" />
   </component>
