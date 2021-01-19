@@ -1,0 +1,16 @@
+<h2>
+Addition:
+<%= 1 + 2 %>
+</h2>
+
+<h2>
+Time in one hour:
+<%= 1.hour.from_now.localtime %>
+</h2>
+
+<h2>
+All files in current directory:
+<% @files.each { |file| %>
+  File name is <%= file %> <br>
+  <% } %>
+</h2>
