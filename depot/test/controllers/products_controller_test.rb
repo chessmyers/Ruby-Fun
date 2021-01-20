@@ -1,7 +1,8 @@
-require 'test_helper'
+require_relative '../test_helper'
+require 'rspec'
 
 class ProductsControllerTest < ActionDispatch::IntegrationTest
-  setup do
+  befp do
     @product = products(:one)
   end
 
