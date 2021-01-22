@@ -22,6 +22,9 @@
           <%= truncate(strip_tags(product.description),
                        length: 80) %>
         </p>
+        <div class="price">
+          <%= number_to_currency product.price %>
+        </div>
       </td>
       <td class="actions">
         <ul>
